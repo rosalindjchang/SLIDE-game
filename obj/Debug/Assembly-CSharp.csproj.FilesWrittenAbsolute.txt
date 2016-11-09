@@ -1,0 +1,36 @@
+/Users/rosalindchang/Project 1_SHMUP/Temp/bin/Debug/UnityEngine.dll
+/Users/rosalindchang/Project 1_SHMUP/Temp/bin/Debug/UnityEditor.dll
+/Users/rosalindchang/Project 1_SHMUP/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/rosalindchang/Project 1_SHMUP/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/rosalindchang/Project 1_SHMUP/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/rosalindchang/Project 1_SHMUP/Temp/bin/Debug/Mono.Cecil.dll
+/Users/rosalindchang/Project 1_SHMUP/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/rosalindchang/Project 1_SHMUP/Temp/bin/Debug/Unity.DataContract.dll
+/Users/rosalindchang/Project 1_SHMUP/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/rosalindchang/Project 1_SHMUP/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/rosalindchang/Project 1_SHMUP/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/rosalindchang/Project 1_SHMUP/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/rosalindchang/Project 1_SHMUP/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/rosalindchang/Project 1_SHMUP/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/rosalindchang/Project 1_SHMUP/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/rosalindchang/Project 1_SHMUP/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/rosalindchang/Project 1_SHMUP/obj/Debug/Assembly-CSharp.dll
+/Users/rosalindchang/Project 1_SHMUP/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/rosalindchang/Project-1_SHMUP/obj/Debug/Assembly-CSharp.dll
+/Users/rosalindchang/Project-1_SHMUP/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/rosalindchang/Project-1_SHMUP/Temp/bin/Debug/UnityEngine.dll
+/Users/rosalindchang/Project-1_SHMUP/Temp/bin/Debug/UnityEditor.dll
+/Users/rosalindchang/Project-1_SHMUP/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/rosalindchang/Project-1_SHMUP/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/rosalindchang/Project-1_SHMUP/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/rosalindchang/Project-1_SHMUP/Temp/bin/Debug/Mono.Cecil.dll
+/Users/rosalindchang/Project-1_SHMUP/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/rosalindchang/Project-1_SHMUP/Temp/bin/Debug/Unity.DataContract.dll
+/Users/rosalindchang/Project-1_SHMUP/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/rosalindchang/Project-1_SHMUP/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/rosalindchang/Project-1_SHMUP/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/rosalindchang/Project-1_SHMUP/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/rosalindchang/Project-1_SHMUP/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/rosalindchang/Project-1_SHMUP/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/rosalindchang/Project-1_SHMUP/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/rosalindchang/Project-1_SHMUP/Temp/bin/Debug/Assembly-CSharp.dll
